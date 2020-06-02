@@ -9,3 +9,7 @@ Note: this method only works on Android > 5.1
 3. Install the apk using this command: `adb install <path-of-the-apk-file>` Note: <path-of-the-apk-file> needs to be replaced with the path of the apk file
 4. Set the new wallpaper using this command: `adb shell am broadcast -a com.adryzz.wallpaperunbricker.SET_WALLPAPER -n com.adryzz.wallpaperunbricker/.SetWallpaperReceiver`
 Now it should have unbricked the device!
+
+Now, uninstall the app or keep it and run only the second command in case you'll ever need to.
+
+This app weights 2MB on the device so you can keep it without wasting disk space.
