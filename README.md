@@ -1,5 +1,5 @@
 # WallpaperUnbricker
-Unbricks the device when it is bricked by the RGB wallpaper bug
+Unbricks an Android device when it is bricked by the RGB wallpaper bug
 (Note: This only works when debug USB is enabled and the PC you are using is trusted by the device)
 
 Note: this method only works on Android > 5.1
